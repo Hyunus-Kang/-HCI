@@ -1,2 +1,2 @@
 # HCI
-hello, here is the page
+hello, here is the '지능HCI' project page.
